@@ -58,7 +58,7 @@ input,
 select {
   padding: .9rem;
   border-radius: 5px;
-  border: 1px solid #f43636;
+  border: 1px solid green;
   cursor: pointer;
   outline: none;
 }
